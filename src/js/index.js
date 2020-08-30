@@ -1,0 +1,1 @@
+"use strict";var header=$(".header"),scrollPrev=0;$(window).scroll(function(){var r=$(window).scrollTop();50<r&&scrollPrev<r?header.addClass("out"):header.removeClass("out"),scrollPrev=r});

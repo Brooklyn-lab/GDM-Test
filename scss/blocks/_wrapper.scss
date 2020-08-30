@@ -1,0 +1,12 @@
+.main-wrapper {
+   max-width: 800px;
+   min-width: 500px;
+   width: 100%;
+   min-height: 100vh;
+   background: #fff;
+   display: flex;
+   flex-direction: column;
+   margin: 0 auto;
+   padding: 50px 0;
+   overflow-x: hidden;
+}
